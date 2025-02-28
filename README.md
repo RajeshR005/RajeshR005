@@ -1,11 +1,12 @@
-<h1 align="center">👋 Hello, I'm <span style="color: #ff5733">Rajesh R</span>! 🚀</h1>
+<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span>! 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Python+Developer+|+Web+Enthusiast+|+AI+Researcher;Building+Next-gen+AI+Solutions;Passionate+About+Innovation+%26+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Python+Developer+|+ML+Enthusiast;💡+Creating+AI-Powered+Innovations;🌐+Exploring+Web+Technologies; "/>
 </p>
 
 ---
@@ -19,58 +20,63 @@
 
 ---
 
-## 🚀 About Me  
-🎯 **An aspiring Python Developer & AI Enthusiast, passionate about problem-solving and building impactful applications!**  
-💡 **Focused on:** AI-powered applications, Machine Learning, Web Technologies, and Data Science.  
-📍 **Currently pursuing MCA at SNS College of Technology**  
+## 🚀 **About Me**  
+🎯 **Aspiring Python Developer & AI Innovator, passionate about solving real-world problems with technology!**  
+💡 **Specialized in:** AI, Machine Learning, Web Development, and Data Science.  
+📍 **Pursuing MCA at SNS College of Technology**  
 
-### 🔹 **Technical Skills**
-- **Languages:** Python, JavaScript  
-- **Web Technologies:** HTML/CSS, Flask  
-- **Databases:** MySQL  
-- **Tools:** Figma, Power BI  
-- **Soft Skills:** Leadership, Teamwork, Time Management  
-
----
-
-## 🚀 Featured Projects  
-🔹 **Breast Cancer Detection Using Machine Learning**  
-- 🏥 **AI model for early-stage breast cancer detection**  
-- 📊 Utilized **Scikit-learn, Pandas, NumPy, and Matplotlib**  
-- 🏆 Improved **diagnostic accuracy** with data-driven predictions  
-- 🔗 **[Project Repository](#)** *(Add your repo link here)*  
-
-🔹 **Healthcare AI Chatbot**  
-- 🤖 **Built a Smart AI-Powered Medical Assistant**  
-- 💬 Uses **Natural Language Processing (NLP) and Deep Learning**  
-- 🚑 Provides **real-time health suggestions & disease predictions**  
-- 🔗 **[Project Repository](#)** *(Add your repo link here)*  
-
+### 🎨 **Tech Stack & Skills**
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IL2kYloCBfKqxi/giphy.gif" width="500" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,figma,git,github,powerbi&theme=light" />
 </p>
 
 ---
+
+## 🌟 **Featured Projects**  
+
+### 🚀 Breast Cancer Detection Using ML  
+> 🏥 **AI model** for early cancer detection using **Scikit-learn & Pandas**  
+> 📊 Improved **diagnostic accuracy** through **data-driven insights**  
+
+🔗 **GitHub Repository:**  
+[![Breast Cancer Detection Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/breast-cancer-detection)  
+
+---
+
+### 🤖 Healthcare AI Chatbot  
+> 💬 **Conversational AI** for medical queries  
+> 🔥 Integrated **NLP & Deep Learning** for **real-time health assistance**  
+
+🔗 **GitHub Repository:**  
+[![Healthcare AI Chatbot Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/healthcare-chatbot)  
+
+---
+
+### 🚀 SpaceX Launch Analysis  
+> 📡 **Analyzed SpaceX launch data** to predict **successful missions**  
+> 📊 Used **Python, Pandas, Matplotlib & Machine Learning Models**  
+> 📈 **Interactive Power BI Dashboard** for dynamic visualization  
+
+🔗 **GitHub Repository:**  
+[![SpaceX Launch Analysis Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/SpaceX-Launch-Analysis)  
+
 
 ## 🏆 **Certifications & Achievements**  
 ✔️ **Python Course - Udemy**  
 ✔️ **MySQL - PrepInsta**  
-🏅 **1st Place** - Inter-Collegiate **Technical Quiz Competition** (Among 27 Colleges)  
-📜 **2nd Place** - **Paper Presentation Competition**  
-💻 **Higher Typewriting Certification** - First Class Honors  
-🌍 **NSS Member** - Volunteered in community service initiatives  
+🏅 **1st Place** - Technical Quiz Competition  
+📜 **2nd Place** - Paper Presentation  
+🌍 **NSS Volunteer** - Community Service Contributor  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats & Streak**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajeshR005&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshR005&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshR005&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -78,7 +84,7 @@
 ---
 
 ## 🔥 **Fun Fact**  
-🎮 When I'm not coding, I explore new technologies, play games, and binge-watch tech documentaries!
+🎮 When I'm not coding, I love **gaming, exploring AI, and watching tech documentaries!**  
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
@@ -87,9 +93,10 @@
 ---
 
 ## 🤝 **Let's Connect!**  
-
 <p align="center">
   <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
+
+
