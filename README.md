@@ -1,69 +1,95 @@
-# Hi there, I'm Rajesh! 👋
+<h1 align="center">👋 Hello, I'm <span style="color: #ff5733">Rajesh R</span>! 🚀</h1>
 
-## 🚀 About Me
-I’m an **Emerging Python Developer** with a passion for **Machine Learning** and problem-solving. I enjoy working on **innovative solutions**, and I’m eager to contribute my skills to impactful projects. 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+</p>
 
-🎓 **MCA Student** at SNS College of Technology  
-💻 Specializing in **Python Development & Machine Learning**  
-🔍 Seeking opportunities to grow and collaborate  
-📫 Contact me: [rajeshr30072002@gmail.com](mailto:rajeshr30072002@gmail.com)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Python+Developer+|+Web+Enthusiast+|+AI+Researcher;Building+Next-gen+AI+Solutions;Passionate+About+Innovation+%26+Technology" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming Languages:** Python, JavaScript, HTML, CSS  
+## 📫 **Connect with Me**
+<p align="center">
+  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 🚀 About Me  
+🎯 **An aspiring Python Developer & AI Enthusiast, passionate about problem-solving and building impactful applications!**  
+💡 **Focused on:** AI-powered applications, Machine Learning, Web Technologies, and Data Science.  
+📍 **Currently pursuing MCA at SNS College of Technology**  
+
+### 🔹 **Technical Skills**
+- **Languages:** Python, JavaScript  
+- **Web Technologies:** HTML/CSS, Flask  
 - **Databases:** MySQL  
-- **Tools & Technologies:** Figma, Power BI, Git, GitHub  
-- **Soft Skills:** Leadership, Adaptability, Teamwork, Time Management  
+- **Tools:** Figma, Power BI  
+- **Soft Skills:** Leadership, Teamwork, Time Management  
 
 ---
 
-## 🏆 Achievements
-🏅 **1st Prize** – Inter-Collegiate Technical Quiz Competition (27 Colleges)  
-📜 **2nd Prize** – Intra-Department Paper Presentation  
-⌨️ **Higher Typewriting Certification** – First Class Honors  
-🤝 **NSS Member** – Active in community service & awareness initiatives  
+## 🚀 Featured Projects  
+🔹 **Breast Cancer Detection Using Machine Learning**  
+- 🏥 **AI model for early-stage breast cancer detection**  
+- 📊 Utilized **Scikit-learn, Pandas, NumPy, and Matplotlib**  
+- 🏆 Improved **diagnostic accuracy** with data-driven predictions  
+- 🔗 **[Project Repository](#)** *(Add your repo link here)*  
+
+🔹 **Healthcare AI Chatbot**  
+- 🤖 **Built a Smart AI-Powered Medical Assistant**  
+- 💬 Uses **Natural Language Processing (NLP) and Deep Learning**  
+- 🚑 Provides **real-time health suggestions & disease predictions**  
+- 🔗 **[Project Repository](#)** *(Add your repo link here)*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0IL2kYloCBfKqxi/giphy.gif" width="500" />
+</p>
 
 ---
 
-## 📌 Projects
-### 🩺 Breast Cancer Detection Using Machine Learning
-- Developed a **ML model** to assist in **early diagnosis** of breast cancer.
-- Utilized **data preprocessing, predictive modeling, and performance evaluation**.
-- Aimed at **improving diagnostic accuracy** and aiding medical professionals.
-- **GitHub Repository:** [Breast Cancer Detection](https://github.com/RajeshR005/Breast-Cancer-Detection)
-
-### 📊 Data Analysis Dashboard
-- Created an **interactive dashboard** using **Power BI** for data visualization.
-- Extracted insights from **real-world datasets** for business decision-making.
-- **GitHub Repository:** [Data Analysis Dashboard](https://github.com/RajeshR005/Data-Analysis-Dashboard)
-
-### 📝 Portfolio Website
-- Designed and developed a **personal portfolio** using HTML, CSS, and JavaScript.
-- Showcases **projects, skills, and achievements**.
-- **GitHub Repository:** [Portfolio Website](https://github.com/RajeshR005/Portfolio-Website)
+## 🏆 **Certifications & Achievements**  
+✔️ **Python Course - Udemy**  
+✔️ **MySQL - PrepInsta**  
+🏅 **1st Place** - Inter-Collegiate **Technical Quiz Competition** (Among 27 Colleges)  
+📜 **2nd Place** - **Paper Presentation Competition**  
+💻 **Higher Typewriting Certification** - First Class Honors  
+🌍 **NSS Member** - Volunteered in community service initiatives  
 
 ---
 
-## 📜 Certifications
-📍 **Python Course** – Udemy  
-📍 **MySQL** – PrepInsta  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshR005&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshR005&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshR005&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌍 Languages Known
-🇮🇳 Tamil | 🇬🇧 English | 🇮🇳 Hindi  
+## 🔥 **Fun Fact**  
+🎮 When I'm not coding, I explore new technologies, play games, and binge-watch tech documentaries!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajeshR005&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshR005&layout=compact&theme=dark)  
+## 🤝 **Let's Connect!**  
 
----
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshradha)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshR005)  
-
-🚀 Let's build and innovate together! 🎯
+<p align="center">
+  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+</p>
