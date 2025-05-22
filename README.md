@@ -6,8 +6,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Python+Developer+|+ML+Enthusiast;💡+Creating+AI-Powered+Innovations;🌐+Exploring+Web+Technologies; "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Python+Developer+%7C+ML+Enthusiast;💡+Creating+AI-Powered+Innovations;🌐+Exploring+Web+Technologies" />
 </p>
+
+
 
 ---
 
