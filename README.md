@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,figma,git,github,powerbi&theme=light" />
 </p>
-
+ 
 ---
 
 ## 🌟 **Featured Projects**  
