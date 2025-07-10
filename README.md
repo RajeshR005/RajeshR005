@@ -1,15 +1,14 @@
-<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span>! 🌟</h1>
-
+<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </p>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Python+Developer+%7C+ML+Enthusiast;💡+Creating+AI-Powered+Innovations;🌐+Exploring+Web+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+Builder;Backend+Architect;SQLAlchemy+ORM+Master;REST+API+Designer;Tech+Enthusiast+from+Thoothukudi+⚡" />
 </p>
 
-
+<p align="center">
+  MCA Graduate (2025) • Backend Developer • API Builder • Code Lover
+</p>
 
 ---
 
@@ -22,53 +21,70 @@
 
 ---
 
-## 🚀 **About Me**  
-🎯 **Aspiring Python Developer & AI Innovator, passionate about solving real-world problems with technology!**  
-💡 **Specialized in:** AI, Machine Learning, Web Development, and Data Science.  
-📍 **Pursuing MCA at SNS College of Technology**  
+## 🚀 **About Me**
 
-### 🎨 **Tech Stack & Skills**
+🎯 Passionate Python backend developer building production-grade systems using FastAPI & SQLAlchemy  
+📍 Based in **Thoothukudi**, crafting clean code from the southern coast of India 🌊  
+👨‍🎓 Completed **MCA (2025)** from **SNS College of Technology, Coimbatore**  
+💬 Obsessed with designing **efficient APIs**, **relational DB structures**, and **auth systems**  
+
+---
+
+## 🛠️ **Tech Stack**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,figma,git,github,powerbi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,git,github&theme=light" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-informational?style=for-the-badge&logo=python&color=blueviolet" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-blue?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
+
+---
+
+## 📌 **My Projects**
+
+### 🏫 Capstone School Database  
+> A full-fledged school management backend system built with **FastAPI + SQLAlchemy**.  
+> Manages users, classes, attendance, marks, fees, and more.  
+> Includes Excel/PDF ranking reports, token-based auth, and dynamic routing.
+
+
+[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/Capstone-School-Database)
+
+---
+
+### 🎓 College Management System  
+> A complete academic system using **Python + SQLAlchemy ORM**.  
+> Handles students, staff, course allocations, and marks — designed with normalized DB schemas and smart relationships.
+
+
+[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/python-sqlalchemy-college-management)
+
+---
+
+### ⚡ FastAPI Practice Repository  
+> My FastAPI learning ground – CRUD APIs, token auth, file upload, dependency injection, and more.  
+> Built to sharpen real-time backend capabilities.
+
  
----
-
-## 🌟 **Featured Projects**  
-
-### 🚀 Breast Cancer Detection Using ML  
-> 🏥 **AI model** for early cancer detection using **Scikit-learn & Pandas**  
-> 📊 Improved **diagnostic accuracy** through **data-driven insights**  
-
-🔗 **GitHub Repository:**  
-[![Breast Cancer Detection Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/breast-cancer-detection)  
+[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/fastapi)
 
 ---
 
-### 🤖 Healthcare AI Chatbot  
-> 💬 **Conversational AI** for medical queries  
-> 🔥 Integrated **NLP & Deep Learning** for **real-time health assistance**  
+### 🧠 SQLAlchemy Concepts & Hands-on  
+> Deep-dive repo into SQLAlchemy: relationships, joins, aggregations, backrefs, subqueries.  
+> Ideal for beginners and intermediate devs.
 
-🔗 **GitHub Repository:**  
-[![Healthcare AI Chatbot Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/healthcare-chatbot)  
+
+ [![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/SQLAlchemy)
 
 ---
 
-### 🚀 SpaceX Launch Analysis  
-> 📡 **Analyzed SpaceX launch data** to predict **successful missions**  
-> 📊 Used **Python, Pandas, Matplotlib & Machine Learning Models**  
-> 📈 **Interactive Power BI Dashboard** for dynamic visualization  
+### 🐍 Python Fundamentals  
+> Personal Python playground – scripting tasks, automation bits, and core concepts.  
+> Solid foundation built here 💪
 
-🔗 **GitHub Repository:**  
-[![SpaceX Launch Analysis Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/SpaceX-Launch-Analysis)  
-
-
-## 🏆 **Certifications & Achievements**  
-✔️ **Python Course - Udemy**  
-✔️ **MySQL - PrepInsta**  
-🏅 **1st Place** - Technical Quiz Competition  
-📜 **2nd Place** - Paper Presentation  
-🌍 **NSS Volunteer** - Community Service Contributor  
+ 
+ [![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/python)
 
 ---
 
@@ -85,20 +101,33 @@
 
 ---
 
-## 🔥 **Fun Fact**  
-🎮 When I'm not coding, I love **gaming, exploring AI, and watching tech documentaries!**  
+## 🏅 **Certifications & Achievements**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
-</p>
+✔️ Python (Udemy)  
+✔️ MySQL (PrepInsta)  
+🏆 1st – Technical Quiz Competition  
+📜 2nd – Paper Presentation  
+💪 NSS Volunteer – Social Impact Contributor
 
 ---
 
-## 🤝 **Let's Connect!**  
+## 🔥 **Fun Fact**
+
+> Backend is my battlefield, SQLAlchemy is my sword, and FastAPI is my shield.  
+> 🎮 When I'm not coding, I love **gaming, exploring AI, and watching tech documentaries!**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
+</p> 
+
+---
+
+## 🤝 **Let's Collaborate**
+
+Got a backend idea or a tough DB schema? Let’s build it together – DM me or drop a mail!
+
 <p align="center">
   <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
-
-
