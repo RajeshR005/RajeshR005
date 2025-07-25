@@ -1,9 +1,8 @@
-<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻</h1>
-<p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1ksrW603RADNz5OQm7hj_lH13NmyF59nV" download>
+<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻  <a href="https://drive.google.com/uc?export=download&id=1ksrW603RADNz5OQm7hj_lH13NmyF59nV" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Download Resume"/>
-  </a>
-</p>
+  </a></h1>
+
+  
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
