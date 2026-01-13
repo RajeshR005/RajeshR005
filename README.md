@@ -1,5 +1,6 @@
-<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻  <a href="https://drive.google.com/uc?export=download&id=1ksrW603RADNz5OQm7hj_lH13NmyF59nV" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Download Resume"/>
+<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing" target="_blank">
+
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Download Resume"/>
   </a></h1>
 
   
@@ -32,6 +33,31 @@
 📍 Based in **Thoothukudi**, crafting clean code from the southern coast of India 🌊  
 👨‍🎓 Completed **MCA (2025)** from **SNS College of Technology, Coimbatore**  
 💬 Obsessed with designing **efficient APIs**, **relational DB structures**, and **auth systems**  
+
+---
+
+## 💼 **Experience**
+
+### 🏢 Software Engineer — **Sigvitas**, Mysore  
+🗓️ *Aug 2025 – Present*
+
+> Working as a backend developer focusing on scalable API-driven systems.
+
+- 🚀 Backend development using **Python & FastAPI**
+- 🔗 Designing and maintaining **RESTful APIs** for large-scale applications
+- 🗄️ Handling **large databases**, including data cleaning, loading, and dumping operations
+- ⚡ Writing **optimized SQL queries** to efficiently manage and retrieve **millions of records**
+- 🏗️ Contributing to **scalable backend architecture** and performance improvements
+
+### 🧑‍💻 Python Development Intern — **Maestro Technologies**, Coimbatore  
+🗓️ *Mar 2025 – Jul 2025*
+
+> Hands-on internship focused on real-world backend development.
+
+- 🧠 Developed backend modules using **Python and FastAPI**
+- 🔐 Built **RESTful APIs** with proper request/response validation
+- 🗃️ Managed **MySQL databases** using **SQLAlchemy ORM**
+- 🧪 Gained exposure to **production-level backend workflows** and API testing
 
 ---
 
