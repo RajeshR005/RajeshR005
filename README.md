@@ -11,6 +11,11 @@
 
 <img src="./impact.svg" width="100%" alt="1.5+ years building scalable REST APIs · 20+ years of USPTO patent data loaded · Millions of records served by optimized SQL · A live agentic AI app on Render + Vercel" />
 
+## My Tech Stack
+
+<img src="./stack.svg" width="100%" alt="Backend: Python, FastAPI, SQLAlchemy, Alembic, Pydantic, JWT, REST API design. AI & LLM: LangGraph, LangChain, RAG, tool calling, generative AI, prompt engineering. Data: MySQL, MongoDB, SQL optimization, XML parsing, Power BI. Tools: Git, GitHub, Linux, Render, Vercel, Figma, HTML/CSS/JS." />
+
+
 ## Right now
 
 - Building backend services at **Sigvitas** that turn 20+ years of **USPTO patent XML** into a normalized MySQL database queried at the scale of millions of records
@@ -71,10 +76,6 @@
 - Worked with the development team to ship features and resolve technical issues
 
 **Education** · MCA, SNS College of Technology (2023–2025, CGPA 7.9) · B.Sc Computer Science, G. Venkataswamy Naidu College (2020–2023, CGPA 8.2)
-
-## Toolkit
-
-<img src="./stack.svg" width="100%" alt="Backend: Python, FastAPI, SQLAlchemy, Alembic, Pydantic, JWT, REST API design. AI & LLM: LangGraph, LangChain, RAG, tool calling, generative AI, prompt engineering. Data: MySQL, MongoDB, SQL optimization, XML parsing, Power BI. Tools: Git, GitHub, Linux, Render, Vercel, Figma, HTML/CSS/JS." />
 
 ## Activity
 
