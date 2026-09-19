@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://rajesh-backend-dev.vercel.app">
   <img src="./hero.svg" width="100%" alt="Rajesh R — Python Backend Developer and Agentic AI Engineer. I build FastAPI backends that handle millions of records, and AI agents that act on real data instead of guessing." />
 </a>
+</p>
 
 <p align="center">
   <a href="https://rajesh-backend-dev.vercel.app"><img src="./btn-portfolio.svg" height="46" alt="Portfolio" /></a>
