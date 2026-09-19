@@ -1,164 +1,101 @@
-<h1 align="center">🚀 Hello, I'm <span style="color: #ff5733">Rajesh R</span> 👨‍💻  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing" target="_blank">
-
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Download Resume"/>
-  </a></h1>
-
-  
+<a href="https://rajesh-backend-dev.vercel.app">
+  <img src="./hero.svg" width="100%" alt="Rajesh R — Python Backend Developer and Agentic AI Engineer. I build FastAPI backends that handle millions of records, and AI agents that act on real data instead of guessing." />
+</a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+Builder;Backend+Architect;SQLAlchemy+ORM+Master;REST+API+Designer;Tech+Enthusiast+from+Thoothukudi+⚡" />
+  <a href="https://rajesh-backend-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=11B5A4" alt="LinkedIn" /></a>
+  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email_me-14213D?style=for-the-badge&logo=gmail&logoColor=FCA311" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FCA311?style=for-the-badge&logo=adobeacrobatreader&logoColor=14213D" alt="Resume" /></a>
 </p>
 
+<img src="./impact.svg" width="100%" alt="1.5+ years building scalable REST APIs · 20+ years of USPTO patent data loaded · Millions of records served by optimized SQL · A live agentic AI app on Render + Vercel" />
+
+## Right now
+
+- Building backend services at **Sigvitas** that turn 20+ years of **USPTO patent XML** into a normalized MySQL database queried at the scale of millions of records
+- Shipping **Dayflow** — the expense & wallet module is done; journaling and tasks are next
+- Going deeper into **agentic AI**: LangGraph workflows, tool calling and RAG on top of real backends
+
+## Featured work
+
 <p align="center">
-  MCA Graduate (2025) • Backend Developer • API Builder • Code Lover
+  <a href="https://github.com/RajeshR005/ziya"><img src="./card-ziya.svg" width="49%" alt="Ziya — live agentic AI shopping assistant. FastAPI, LangGraph, LangChain, Groq, MySQL, JWT." /></a>
+  <a href="https://github.com/RajeshR005/dayflow"><img src="./card-dayflow.svg" width="49%" alt="Dayflow — finance and productivity backend with transactional wallet logic. FastAPI, SQLAlchemy 2.0, Alembic, JWT, Argon2." /></a>
 </p>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 **Connect with Me**
+**Ziya** — the agent never invents a product or price. Every answer comes from a LangChain tool that calls a real FastAPI endpoint, with JWT-protected cart actions and thread-based memory.
+
+<a href="https://ziya-ecru.vercel.app"><img src="https://img.shields.io/badge/Live_demo-FCA311?style=flat-square&logo=vercel&logoColor=14213D" /></a>
+<a href="https://ziya-backend.onrender.com/docs"><img src="https://img.shields.io/badge/API_docs-14213D?style=flat-square&logo=swagger&logoColor=11B5A4" /></a>
+<a href="https://github.com/RajeshR005/ziya"><img src="https://img.shields.io/badge/Code-14213D?style=flat-square&logo=github" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Dayflow** — each income or expense entry runs in one database transaction, so balances never drift. Receipt uploads and soft delete are included, and stored files are cleaned up if anything fails.
+
+<a href="https://github.com/RajeshR005/dayflow"><img src="https://img.shields.io/badge/Code-14213D?style=flat-square&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b> — school & college backends, FastAPI and SQLAlchemy deep-dives</summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Capstone School Database](https://github.com/RajeshR005/capstone-school-database) | School backend: users, classes, attendance, marks, fees, Excel/PDF ranking reports, token auth | FastAPI · SQLAlchemy · MySQL |
+| [College Management System](https://github.com/RajeshR005/python-sqlalchemy-college-management) | Students, staff, courses, allocations and marks on a normalized schema | Python · SQLAlchemy |
+| [FastAPI Practice](https://github.com/RajeshR005/fastapi) | CRUD, token auth, file uploads, dependency injection | FastAPI |
+| [SQLAlchemy Hands-on](https://github.com/RajeshR005/SQLAlchemy) | Relationships, joins, aggregations, backrefs, subqueries | SQLAlchemy |
+| [Python Fundamentals](https://github.com/RajeshR005/python) | Core concepts, scripting and automation | Python |
+
+</details>
+
+## Experience
+
+**Software Engineer** · Sigvitas, Bengaluru · *Aug 2025 – present*
+- Build and maintain scalable backend services and RESTful APIs with **Python & FastAPI** for enterprise applications
+- Wrote Python utilities that parse **USPTO patent XML** and load **20+ years** of patent data into a normalized MySQL database
+- Write optimized SQL and business logic that retrieves and processes **millions of patent records**
+
+**Python Developer Intern** · Maestro Technologies, Coimbatore · *Mar 2025 – Jul 2025*
+- Built backend modules and REST APIs with **FastAPI & SQLAlchemy**, and managed MySQL through the ORM
+- Worked with the development team to ship features and resolve technical issues
+
+**Education** · MCA, SNS College of Technology (2023–2025, CGPA 7.9) · B.Sc Computer Science, G. Venkataswamy Naidu College (2020–2023, CGPA 8.2)
+
+## Toolkit
+
+<img src="./stack.svg" width="100%" alt="Backend: Python, FastAPI, SQLAlchemy, Alembic, Pydantic, JWT, REST API design. AI & LLM: LangGraph, LangChain, RAG, tool calling, generative AI, prompt engineering. Data: MySQL, MongoDB, SQL optimization, XML parsing, Power BI. Tools: Git, GitHub, Linux, Render, Vercel, Figma, HTML/CSS/JS." />
+
+## Activity
+
 <p align="center">
-  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajeshR005&show_icons=true&hide_border=true&border_radius=16&bg_color=14213D&title_color=FCA311&icon_color=11B5A4&text_color=F1F4F9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=RajeshR005&hide_border=true&border_radius=16&background=14213D&ring=11B5A4&fire=FCA311&currStreakNum=F1F4F9&currStreakLabel=FCA311&sideNums=F1F4F9&sideLabels=9FB0C8&dates=9FB0C8&stroke=2A4270" alt="GitHub streak" />
 </p>
 
----
-
-## 🚀 **About Me**
-
-🎯 Passionate Python backend developer building production-grade systems using FastAPI & SQLAlchemy  
-📍 Based in **Thoothukudi**, crafting clean code from the southern coast of India 🌊  
-👨‍🎓 Completed **MCA (2025)** from **SNS College of Technology, Coimbatore**  
-💬 Obsessed with designing **efficient APIs**, **relational DB structures**, and **auth systems**  
-
----
-
-## 💼 **Experience**
-
-### 🏢 Software Engineer — **Sigvitas**, Mysore  
-🗓️ *Aug 2025 – Present*
-
-> Working as a backend developer focusing on scalable API-driven systems.
-
-- 🚀 Backend development using **Python & FastAPI**
-- 🔗 Designing and maintaining **RESTful APIs** for large-scale applications
-- 🗄️ Handling **large databases**, including data cleaning, loading, and dumping operations
-- ⚡ Writing **optimized SQL queries** to efficiently manage and retrieve **millions of records**
-- 🏗️ Contributing to **scalable backend architecture** and performance improvements
-
-### 🧑‍💻 Python Development Intern — **Maestro Technologies**, Coimbatore  
-🗓️ *Mar 2025 – Jul 2025*
-
-> Hands-on internship focused on real-world backend development.
-
-- 🧠 Developed backend modules using **Python and FastAPI**
-- 🔐 Built **RESTful APIs** with proper request/response validation
-- 🗃️ Managed **MySQL databases** using **SQLAlchemy ORM**
-- 🧪 Gained exposure to **production-level backend workflows** and API testing
-
----
-
-## 🛠️ **Tech Stack**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,git,github&theme=light" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-informational?style=for-the-badge&logo=python&color=blueviolet" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-blue?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajeshR005/RajeshR005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajeshR005/RajeshR005/output/github-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/RajeshR005/RajeshR005/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
----
-
-## 📌 **My Projects**
-
-### 🏫 Capstone School Database  
-> A full-fledged school management backend system built with **FastAPI + SQLAlchemy**.  
-> Manages users, classes, attendance, marks, fees, and more.  
-> Includes Excel/PDF ranking reports, token-based auth, and dynamic routing.
-
-
-[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/Capstone-School-Database)
-
----
-
-### 🎓 College Management System  
-> A complete academic system using **Python + SQLAlchemy ORM**.  
-> Handles students, staff, course allocations, and marks — designed with normalized DB schemas and smart relationships.
-
-
-[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/python-sqlalchemy-college-management)
-
----
-
-### ⚡ FastAPI Practice Repository  
-> My FastAPI learning ground – CRUD APIs, token auth, file upload, dependency injection, and more.  
-> Built to sharpen real-time backend capabilities.
-
- 
-[![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/fastapi)
-
----
-
-### 🧠 SQLAlchemy Concepts & Hands-on  
-> Deep-dive repo into SQLAlchemy: relationships, joins, aggregations, backrefs, subqueries.  
-> Ideal for beginners and intermediate devs.
-
-
- [![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/SQLAlchemy)
-
----
-
-### 🐍 Python Fundamentals  
-> Personal Python playground – scripting tasks, automation bits, and core concepts.  
-> Solid foundation built here 💪
-
- 
- [![View Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RajeshR005/python)
-
----
-
-## 📊 **GitHub Stats & Streak**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeshR005&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajeshR005&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshR005&layout=compact&theme=radical" alt="Top Languages" />
+  <sub>🏆 1st place, Technical Quiz &nbsp;·&nbsp; 📜 2nd place, Paper Presentation &nbsp;·&nbsp; ✔️ Python (Udemy), MySQL (PrepInsta) &nbsp;·&nbsp; 💪 NSS Volunteer</sub>
 </p>
 
----
-
-## 🏅 **Certifications & Achievements**
-
-✔️ Python (Udemy)  
-✔️ MySQL (PrepInsta)  
-🏆 1st – Technical Quiz Competition  
-📜 2nd – Paper Presentation  
-💪 NSS Volunteer – Social Impact Contributor
-
----
-
-## 🔥 **Fun Fact**
-
-> Backend is my battlefield, SQLAlchemy is my sword, and FastAPI is my shield.  
-> 🎮 When I'm not coding, I love **gaming, exploring AI, and watching tech documentaries!**
-
+<h3 align="center">Building something where the backend has to be right? Let's talk.</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
-</p> 
-
----
-
-## 🤝 **Let's Collaborate**
-
-Got a backend idea or a tough DB schema? Let’s build it together – DM me or drop a mail!
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-rajeshradha-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/RajeshR005"><img src="https://img.shields.io/badge/GitHub-RajeshR005-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email-rajeshr30072002%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:rajeshr30072002@gmail.com">rajeshr30072002@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/rajeshradha">linkedin.com/in/rajeshradha</a> &nbsp;·&nbsp; Tamil · English · Hindi
 </p>
