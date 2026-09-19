@@ -3,10 +3,10 @@
 </a>
 
 <p align="center">
-  <a href="https://rajesh-backend-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rajeshradha"><img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=11B5A4" alt="LinkedIn" /></a>
-  <a href="mailto:rajeshr30072002@gmail.com"><img src="https://img.shields.io/badge/Email_me-14213D?style=for-the-badge&logo=gmail&logoColor=FCA311" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FCA311?style=for-the-badge&logo=adobeacrobatreader&logoColor=14213D" alt="Resume" /></a>
+  <a href="https://rajesh-backend-dev.vercel.app"><img src="./btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rajeshradha/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rajeshr30072002@gmail.com"><img src="./btn-email.svg" height="46" alt="Email me" /></a>
+  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing"><img src="./btn-resume.svg" height="46" alt="Resume" /></a>
 </p>
 
 <img src="./impact.svg" width="100%" alt="1.5+ years building scalable REST APIs · 20+ years of USPTO patent data loaded · Millions of records served by optimized SQL · A live agentic AI app on Render + Vercel" />
@@ -97,5 +97,8 @@
 
 <h3 align="center">Building something where the backend has to be right? Let's talk.</h3>
 <p align="center">
-  <a href="mailto:rajeshr30072002@gmail.com">rajeshr30072002@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/rajeshradha">linkedin.com/in/rajeshradha</a> &nbsp;·&nbsp; Tamil · English · Hindi
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rajeshr30072002@gmail.com"><img src="./btn-email.svg" height="46" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/rajeshradha/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="https://rajesh-backend-dev.vercel.app"><img src="./btn-portfolio.svg" height="46" alt="Portfolio" /></a>
 </p>
+<p align="center"><sub>rajeshr30072002@gmail.com &nbsp;·&nbsp; Tamil · English · Hindi</sub></p>
