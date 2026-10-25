@@ -68,7 +68,7 @@
 
 ## Experience
 
-**Software Engineer** · Sigvitas, Bengaluru · *Aug 2025 – present*
+**Software Engineer** · Sigvitas, Bengaluru · *Aug 2025 – September 2026*
 - Build and maintain scalable backend services and RESTful APIs with **Python & FastAPI** for enterprise applications
 - Wrote Python utilities that parse **USPTO patent XML** and load **20+ years** of patent data into a normalized MySQL database
 - Write optimized SQL and business logic that retrieves and processes **millions of patent records**
