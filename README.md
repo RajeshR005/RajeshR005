@@ -8,7 +8,7 @@
   <a href="https://rajesh-backend-dev.vercel.app"><img src="./btn-portfolio.svg" height="46" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rajeshradha/"><img src="./btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rajeshr30072002@gmail.com"><img src="./btn-email.svg" height="46" alt="Email me" /></a>
-  <a href="https://drive.google.com/file/d/1935uhpw4A33xmgeRx0EZHgKKiidZ8Ub3/view?usp=sharing"><img src="./btn-resume.svg" height="46" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1pFRZuYxqBvLcd3D3BZrvNxUGU40L_hzr/view"><img src="./btn-resume.svg" height="46" alt="Resume" /></a>
 </p>
 
 <img src="./impact.svg" width="100%" alt="1.5+ years building scalable REST APIs · 20+ years of USPTO patent data loaded · Millions of records served by optimized SQL · A live agentic AI app on Render + Vercel" />
