@@ -17,13 +17,6 @@
 
 <img src="./stack.svg" width="100%" alt="Backend: Python, FastAPI, SQLAlchemy, Alembic, Pydantic, JWT, REST API design. AI & LLM: LangGraph, LangChain, RAG, tool calling, generative AI, prompt engineering. Data: MySQL, MongoDB, SQL optimization, XML parsing, Power BI. Tools: Git, GitHub, Linux, Render, Vercel, Figma, HTML/CSS/JS." />
 
-
-## Right now
-
-- Building backend services at **Sigvitas** that turn 20+ years of **USPTO patent XML** into a normalized MySQL database queried at the scale of millions of records
-- Shipping **Dayflow** — the expense & wallet module is done; journaling and tasks are next
-- Going deeper into **agentic AI**: LangGraph workflows, tool calling and RAG on top of real backends
-
 ## Featured work
 
 <p align="center">
